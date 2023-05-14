@@ -4,7 +4,7 @@ import numpy as np
 
 resolution = (960, 540)
 
-codec = cv2.VideoWriter_fourcc(*"mp4v")
+codec = cv2.VideoWriter_fourcc(*"XVID")
 
 filename = "Recording2.avi"
 
